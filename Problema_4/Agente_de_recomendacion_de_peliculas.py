@@ -20,5 +20,5 @@ def ejecutar_agente_recomendacion():
     # Logica para manejar el agente
     pass
 
-# Se ejecuta el agente de recomendación
+# Se ejecuta el agente de recomendación de pelicula
 ejecutar_agente_recomendacion()
