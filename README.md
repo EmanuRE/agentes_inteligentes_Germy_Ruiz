@@ -1,5 +1,5 @@
 ## Problema #1: Agente de Semáforo Inteligente (Reactivo)
--	**Descripción: **
+-	**Descripción:**
 -	El problema consiste en un agente inteligente que controle un semáforo, cambiando su estado (Verde, Amarillo y Rojo), estos cambiarán según el flujo del tráfico. El agente es capaz de ajustar su duración de cada estado, según los vehículos que se detecten.
 
 -	**Funcionamiento**
@@ -8,7 +8,7 @@
 -	Por último, se muestra en pantalla el estado actual y el tiempo que se espera en cada cambio.
 
 ## Problema #2: Agente Buscador de Objetos (Basado en Objetivos)
--	**Descripción: **
+-	**Descripción:**
 -	Este problema requiere desarrollar un agente que se pueda desplazar en una cuadricula de (5x5) haciendo una búsqueda de un objeto colocado de forma aleatoria, este avanza paso a paso hasta lograr encontrarlo.
 
 -	**Funcionamiento**
@@ -16,8 +16,8 @@
 -	Se muestra la cuadricula en cada avance que del agente.
 -	Si el agente encuentra el objeto, se muestra un mensaje de éxito.
 
-##Problema 3: Sistema Experto para Diagnóstico Simple
--	**Descripción: **
+## Problema 3: Sistema Experto para Diagnóstico Simple
+-	**Descripción:**
 -	Este problema requiere realizar un diagnóstico básico según los síntomas que se ingresen por el usuario.
 
 -	**Funcionamiento**
@@ -27,8 +27,8 @@
 -	Diagnósticos posibles:
 -	Posible Migraña, Posible lesión muscular, posible alergia, Posible presión arterial baja, Posible infección urinaria, Posible problema de columna, Posible condición pulmonar crónica y Posible infección de garganta.
 
-##Problema 4: Agente de Recomendación de Películas (Basado en Aprendizaje)
--	**Descripción: **
+## Problema 4: Agente de Recomendación de Películas (Basado en Aprendizaje)
+-	**Descripción:**
 -	Este problema requiere diseñar un agente que recomiende películas tomando en cuenta el género favorito del usuario.
 -	**Funcionamiento**
 -	Se carga un diccionario de películas organizadas por género
